@@ -2,6 +2,7 @@
 
 This is the Arduino code used to run my capstone project.
 
+See demonstration: https://youtu.be/uGBWQ3LNsYQ
 
 Main hardware was...
 
